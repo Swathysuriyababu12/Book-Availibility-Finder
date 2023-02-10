@@ -1,0 +1,42 @@
+[
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "publisher": "Charles Scribner's Sons",
+    "publishDate": "April 10, 1925",
+    "pageCount": 218,
+    "genre": "Novel",
+    "ISBN": "9780743273565",
+    "available": true
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "publisher": "J. B. Lippincott & Co.",
+    "publishDate": "July 11, 1960",
+    "pageCount": 281,
+    "genre": "Novel",
+    "ISBN": "9780061120084",
+    "available": true
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "publisher": "T. Egerton, Whitehall",
+    "publishDate": "January 28, 1813",
+    "pageCount": 279,
+    "genre": "Novel",
+    "ISBN": "9780199535729",
+    "available": true
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "publisher": "Secker & Warburg",
+    "publishDate": "June 8, 1949",
+    "pageCount": 328,
+    "genre": "Novel",
+    "ISBN": "9780451524935",
+    "available": true
+  }
+]
