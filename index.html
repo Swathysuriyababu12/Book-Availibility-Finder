@@ -7,7 +7,15 @@
     <h1>Book Availability Finder</h1>
     <form>
       <label for="book-title">Enter book title:</label>
-      <input type="text" id="book-title" name="book-title" />
+      <!-- <input type="text" id="book-title" name="book-title" /> -->
+      <select id="book-title">
+        <option value="">Select a book</option>
+        <option value="The Great Gatsby">The Great Gatsby</option>
+        <option value="Pride and Prejudice">Pride and Prejudice</option>
+        <option value="1984">1984</option>
+        <option value="To Kill a Mockingbird">To Kill a Mockingbird</option>
+        <option value="Harry potter">Harry potter</option>
+      </select>
       <button type="submit">Check Availability</button>
     </form>
     <div id="availability"></div>
